@@ -1,0 +1,176 @@
+2026-02-15 23:14:12,192 INFO app: Logging configured successfully
+2026-02-15 23:14:12,192 INFO app: Logging configured successfully
+2026-02-15 23:14:12,301 INFO app: Logging configured successfully
+2026-02-15 23:14:12,301 INFO app: Logging configured successfully
+2026-02-15 23:14:12,301 INFO app: Logging configured successfully
+2026-02-15 23:14:12,301 INFO app: Logging configured successfully
+2026-02-16 20:54:18,858 INFO app: Logging configured successfully
+2026-02-16 20:54:18,858 INFO app: Logging configured successfully
+2026-02-16 20:54:18,950 INFO app: Logging configured successfully
+2026-02-16 20:54:18,950 INFO app: Logging configured successfully
+2026-02-16 20:54:18,950 INFO app: Logging configured successfully
+2026-02-16 20:54:18,950 INFO app: Logging configured successfully
+2026-02-17 20:07:23,854 INFO app: Logging configured successfully
+2026-02-17 20:07:23,854 INFO app: Logging configured successfully
+2026-02-17 20:34:07,237 INFO app: Logging configured successfully
+2026-02-17 20:34:07,237 INFO app: Logging configured successfully
+2026-02-17 20:34:07,385 INFO app: Logging configured successfully
+2026-02-17 20:34:07,385 INFO app: Logging configured successfully
+2026-02-17 20:34:07,385 INFO app: Logging configured successfully
+2026-02-17 20:34:07,385 INFO app: Logging configured successfully
+2026-02-17 20:46:29,939 INFO app: Logging configured successfully
+2026-02-17 20:46:29,939 INFO app: Logging configured successfully
+2026-02-17 20:48:45,837 INFO app: Logging configured successfully
+2026-02-17 20:48:45,837 INFO app: Logging configured successfully
+2026-02-17 20:48:46,111 INFO app: Logging configured successfully
+2026-02-17 20:48:46,111 INFO app: Logging configured successfully
+2026-02-17 20:48:46,111 INFO app: Logging configured successfully
+2026-02-17 20:48:46,111 INFO app: Logging configured successfully
+2026-02-17 20:49:10,186 INFO app: Logging configured successfully
+2026-02-17 20:49:10,186 INFO app: Logging configured successfully
+2026-02-17 20:49:10,370 INFO app: Logging configured successfully
+2026-02-17 20:49:10,370 INFO app: Logging configured successfully
+2026-02-17 20:49:10,370 INFO app: Logging configured successfully
+2026-02-17 20:49:10,370 INFO app: Logging configured successfully
+2026-02-17 20:49:10,427 WARNING werkzeug:  * Debugger is active!
+2026-02-17 20:49:10,427 WARNING werkzeug:  * Debugger is active!
+2026-02-17 20:52:18,223 INFO app: Logging configured successfully
+2026-02-17 20:52:18,223 INFO app: Logging configured successfully
+2026-02-17 20:52:18,257 INFO app: Logging configured successfully
+2026-02-17 20:52:18,257 INFO app: Logging configured successfully
+2026-02-17 20:52:18,257 INFO app: Logging configured successfully
+2026-02-17 20:52:18,257 INFO app: Logging configured successfully
+2026-02-17 20:52:32,308 INFO app: Logging configured successfully
+2026-02-17 20:52:32,308 INFO app: Logging configured successfully
+2026-02-17 20:52:32,343 INFO app: Logging configured successfully
+2026-02-17 20:52:32,343 INFO app: Logging configured successfully
+2026-02-17 20:52:32,343 INFO app: Logging configured successfully
+2026-02-17 20:52:32,343 INFO app: Logging configured successfully
+2026-02-17 20:52:32,370 WARNING werkzeug:  * Debugger is active!
+2026-02-17 20:52:32,370 WARNING werkzeug:  * Debugger is active!
+2026-02-17 21:07:20,883 INFO app: Logging configured successfully
+2026-02-17 21:07:20,883 INFO app: Logging configured successfully
+2026-02-17 21:07:20,994 INFO app: Logging configured successfully
+2026-02-17 21:07:20,994 INFO app: Logging configured successfully
+2026-02-17 21:07:20,994 INFO app: Logging configured successfully
+2026-02-17 21:07:20,994 INFO app: Logging configured successfully
+2026-02-17 21:07:36,245 INFO app: Logging configured successfully
+2026-02-17 21:07:36,245 INFO app: Logging configured successfully
+2026-02-17 21:07:36,263 INFO app: Logging configured successfully
+2026-02-17 21:07:36,263 INFO app: Logging configured successfully
+2026-02-17 21:07:36,263 INFO app: Logging configured successfully
+2026-02-17 21:07:36,263 INFO app: Logging configured successfully
+2026-02-17 21:07:36,294 WARNING werkzeug:  * Debugger is active!
+2026-02-17 21:07:36,294 WARNING werkzeug:  * Debugger is active!
+2026-02-17 21:09:08,850 INFO utils.database_seeder: Seeding 15 products...
+2026-02-17 21:09:08,850 INFO utils.database_seeder: Seeding 15 products...
+2026-02-17 21:09:08,860 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,860 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,860 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,860 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,863 ERROR utils.database_seeder: Error seeding product iPhone 15 Pro: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,863 ERROR utils.database_seeder: Error seeding product iPhone 15 Pro: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,867 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,867 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,867 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,867 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,871 ERROR utils.database_seeder: Error seeding product Samsung Galaxy S24 Ultra: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,871 ERROR utils.database_seeder: Error seeding product Samsung Galaxy S24 Ultra: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,875 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,875 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,875 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,875 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,879 ERROR utils.database_seeder: Error seeding product Google Pixel 8 Pro: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,879 ERROR utils.database_seeder: Error seeding product Google Pixel 8 Pro: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,882 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,882 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,882 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,882 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,884 ERROR utils.database_seeder: Error seeding product MacBook Pro 16" M3 Max: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,884 ERROR utils.database_seeder: Error seeding product MacBook Pro 16" M3 Max: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,887 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,887 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,887 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,887 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,890 ERROR utils.database_seeder: Error seeding product Dell XPS 13 Plus: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,890 ERROR utils.database_seeder: Error seeding product Dell XPS 13 Plus: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,893 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,893 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,893 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,893 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,895 ERROR utils.database_seeder: Error seeding product ASUS ROG Zephyrus G16: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,895 ERROR utils.database_seeder: Error seeding product ASUS ROG Zephyrus G16: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,898 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,898 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,898 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,898 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,900 ERROR utils.database_seeder: Error seeding product Sony WH-1000XM5: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,900 ERROR utils.database_seeder: Error seeding product Sony WH-1000XM5: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,902 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,902 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,902 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,902 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,905 ERROR utils.database_seeder: Error seeding product Apple AirPods Pro (2nd Gen): You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,905 ERROR utils.database_seeder: Error seeding product Apple AirPods Pro (2nd Gen): You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,909 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,909 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,909 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,909 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,911 ERROR utils.database_seeder: Error seeding product Bose QuietComfort Ultra: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,911 ERROR utils.database_seeder: Error seeding product Bose QuietComfort Ultra: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,914 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,914 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,914 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,914 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,916 ERROR utils.database_seeder: Error seeding product PlayStation 5 Slim: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,916 ERROR utils.database_seeder: Error seeding product PlayStation 5 Slim: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,919 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,919 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,919 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,919 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,921 ERROR utils.database_seeder: Error seeding product Xbox Series X: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,921 ERROR utils.database_seeder: Error seeding product Xbox Series X: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,924 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,924 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,924 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,924 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,927 ERROR utils.database_seeder: Error seeding product Razer DeathAdder V3 Pro: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,927 ERROR utils.database_seeder: Error seeding product Razer DeathAdder V3 Pro: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,931 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,931 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,931 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,931 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,935 ERROR utils.database_seeder: Error seeding product Amazon Echo Studio: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,935 ERROR utils.database_seeder: Error seeding product Amazon Echo Studio: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,938 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,938 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,938 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,938 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,940 ERROR utils.database_seeder: Error seeding product Nest Thermostat: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,940 ERROR utils.database_seeder: Error seeding product Nest Thermostat: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,942 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,942 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,942 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,942 ERROR services.vector_service: Failed to initialize vector service: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,944 ERROR utils.database_seeder: Error seeding product Ring Video Doorbell Pro 2: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,944 ERROR utils.database_seeder: Error seeding product Ring Video Doorbell Pro 2: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2026-02-17 21:09:08,952 INFO utils.database_seeder: Products seeded successfully
+2026-02-17 21:09:08,952 INFO utils.database_seeder: Products seeded successfully
+2026-02-17 21:09:08,953 INFO app: Database initialized successfully
+2026-02-17 21:09:08,953 INFO app: Database initialized successfully
+2026-02-17 21:09:08,953 INFO app: Database initialized successfully
+2026-02-17 21:09:08,953 INFO app: Database initialized successfully
+2026-02-17 23:06:12,329 INFO app: Logging configured successfully
+2026-02-17 23:06:12,329 INFO app: Logging configured successfully
+2026-02-17 23:06:12,374 INFO app: Logging configured successfully
+2026-02-17 23:06:12,374 INFO app: Logging configured successfully
+2026-02-17 23:06:12,374 INFO app: Logging configured successfully
+2026-02-17 23:06:12,374 INFO app: Logging configured successfully
+2026-02-17 23:06:28,404 INFO app: Logging configured successfully
+2026-02-17 23:06:28,404 INFO app: Logging configured successfully
+2026-02-17 23:06:28,444 INFO app: Logging configured successfully
+2026-02-17 23:06:28,444 INFO app: Logging configured successfully
+2026-02-17 23:06:28,444 INFO app: Logging configured successfully
+2026-02-17 23:06:28,444 INFO app: Logging configured successfully
+2026-02-17 23:06:28,480 WARNING werkzeug:  * Debugger is active!
+2026-02-17 23:06:28,480 WARNING werkzeug:  * Debugger is active!
